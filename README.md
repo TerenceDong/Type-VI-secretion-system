@@ -1,1 +1,1 @@
-Type VI secretion system retrogression is required for Escherichia coli O157:H7 enhanced cytotoxicity
+Type VI secretion system degeneration accelerates intestinal epithelial cell death in Escherichia coli O157:H7
